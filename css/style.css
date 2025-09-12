@@ -132,7 +132,7 @@ Table of content:
 }
 
 /* base background color */
-.bg-color{background: var(--primary-color)}
+.bg-color{background:rgb(7, 26, 109) }
 .bg-light{background: var(--bg-light) !important}
 .bg-dark,.bg-dark-1{background-color: var(--bg-dark-1) !important}
 .bg-dark-2{background-color: var(--bg-dark-2) !important}
@@ -1288,9 +1288,9 @@ section.no-bg,
 
 footer {
   color: var(--body-font-color-dark);
-  background: var(--bg-dark-2);
+  background: rgb(116, 33, 60);
   padding: 100px 0 0 0;
-}
+}j
 
 footer.footer-light {
   background: #ffffff;
